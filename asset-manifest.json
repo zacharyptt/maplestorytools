@@ -1,14 +1,12 @@
 {
   "files": {
     "main.css": "/maplestorytools/static/css/main.31d6cfe0.css",
-    "main.js": "/maplestorytools/static/js/main.508ea378.js",
-    "static/js/787.0c4b1d02.chunk.js": "/maplestorytools/static/js/787.0c4b1d02.chunk.js",
-    "index.html": "/maplestorytools/index.html",
-    "main.508ea378.js.map": "/maplestorytools/static/js/main.508ea378.js.map",
-    "787.0c4b1d02.chunk.js.map": "/maplestorytools/static/js/787.0c4b1d02.chunk.js.map"
+    "main.js": "/maplestorytools/static/js/main.8bb15ccd.js",
+    "static/js/27.41e506ed.chunk.js": "/maplestorytools/static/js/27.41e506ed.chunk.js",
+    "index.html": "/maplestorytools/index.html"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.508ea378.js"
+    "static/js/main.8bb15ccd.js"
   ]
 }
